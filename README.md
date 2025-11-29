@@ -1,2 +1,2 @@
-# Web Error Images
-This was made by TechNova © TechNova 2025
+# Error Image Pixel Art
+> These error codes were made by © 2025 TechNova
